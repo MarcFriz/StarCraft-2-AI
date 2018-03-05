@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PySC2", "PySC2\PySC2.pyproj", "{396AF0DE-840C-4B6C-9F4C-E526D18B269D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396AF0DE-840C-4B6C-9F4C-E526D18B269D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396AF0DE-840C-4B6C-9F4C-E526D18B269D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E8D6A5-5713-4A80-8CE6-9F75C2478596}
+	EndGlobalSection
+EndGlobal
